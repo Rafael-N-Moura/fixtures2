@@ -12,26 +12,6 @@
 "id":2,
 "titulo":"Filme favorito",
 "descricao":"Qual é o filme que você mais gostou até hoje?"
-},
-{
-"id":3,
-"titulo":"Comida favorita",
-"descricao":"Qual é a comida que você mais gostou até hoje?"
-},
-{
-"id":4,
-"titulo":"Viagem favorita",
-"descricao":"Qual é a viagem que você mais gostou até hoje?"
-},
-{
-"id":5,
-"titulo":"Cor favorita",
-"descricao":"Qual é a cor que você mais gosta?"
-},
-{
-"id":6,
-"titulo":"Música favorita",
-"descricao":"Qual é a música que você mais gostou até hoje?"
 }
 ]
 }
